@@ -92,23 +92,6 @@ Interactive Excel dashboard analyzing **customer demographics and bike purchasin
 
 ---
 
-## 🧩 Skills Demonstrated Across Projects
-
-| Skill | Churn | Sales KPI | Movie Analysis | Bike Sales |
-|:---|:---:|:---:|:---:|:---:|
-| SQL | ✅ | ✅ | | |
-| Python | ✅ | | ✅ | |
-| Pandas | ✅ | | ✅ | |
-| Power BI | ✅ | ✅ | | |
-| DAX | | ✅ | | |
-| Excel | | | | ✅ |
-| Machine Learning | ✅ | | | |
-| Data Cleaning | ✅ | ✅ | ✅ | ✅ |
-| Data Visualization | ✅ | ✅ | ✅ | ✅ |
-| Business Analysis | ✅ | ✅ | | ✅ |
-
----
-
 ## 🎯 What I Can Do
 
 - 🧹 Clean and prepare datasets for analysis
