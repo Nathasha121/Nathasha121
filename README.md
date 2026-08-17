@@ -2,33 +2,42 @@
 
 ### Aspiring Data Analyst | Software Engineering Undergraduate
 
-I'm a Software Engineering undergraduate with a strong passion for **Data Analytics** and using data to discover meaningful insights and support better decision-making.
+I'm a Software Engineering undergraduate with a strong passion for **Data Analytics, Business Intelligence, and Data-Driven Problem Solving**.
 
-I have been developing my skills through **self-learning and hands-on projects**, working with real-world datasets to practice data cleaning, exploratory data analysis, visualization, SQL querying, and machine learning.
+Through self-learning and hands-on projects, I have been developing practical experience in **SQL, Python, Excel, Power BI, data cleaning, exploratory data analysis, data visualization, and machine learning**.
+
+I enjoy transforming raw data into meaningful insights that can support better business decisions.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 📊 Data Analytics
+### 📊 Data Analytics & Business Intelligence
+
 - SQL
 - Microsoft Excel
 - Power BI
+- DAX
 - Tableau
 - Data Cleaning
 - Exploratory Data Analysis
 - Data Visualization
 - Data Modeling
+- KPI Development
+- Business Analysis
 
-### 🐍 Programming & Data Science
+### 🐍 Python & Data Science
+
 - Python
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 - Scikit-learn
+- Machine Learning
 
 ### 💻 Software Engineering
+
 - Java
 - C#
 - JavaScript
@@ -41,32 +50,79 @@ I have been developing my skills through **self-learning and hands-on projects**
 
 ---
 
-## 📌 Featured Projects
+## 📊 Featured Data Analytics Projects
 
-### 📊 Customer Churn Analysis
-An end-to-end data analytics and machine learning project focused on identifying customer churn patterns and predicting customers who are likely to leave.
+### 👥 Customer Churn Analysis
 
-**Tools:** Python, Pandas, NumPy, Scikit-learn, SQL, Power BI
+End-to-end customer churn analysis combining **SQL, Python, Power BI, and Machine Learning** to identify churn patterns and predict potential customer churn.
 
-### 🚲 Bike Sales Analysis
-An interactive dashboard created to analyze bike sales, customer demographics, purchasing patterns, and business performance.
+**Tools:** Python · Pandas · NumPy · SQL · Power BI · Scikit-learn · Random Forest
 
-**Tools:** Excel, Data Cleaning, Pivot Tables, Data Visualization
-
-
-### 🚴 Toman Bike Shop Analysis
-A business-focused data analysis project exploring revenue, customer behavior, product performance, and sales trends.
-
-**Tools:** SQL, Power BI
-
-### 🎬 Movie Correlation Analysis
-A Python-based analysis exploring relationships between movie characteristics and gross revenue.
-
-**Tools:** Python, Pandas, Seaborn, Matplotlib
+🔗 [View Project](https://github.com/Nathasha121/Customer-Churn-Analysis)
 
 ---
 
-## 🎯 Currently Learning
+### 📊 Sales KPI Dashboard
+
+Business-focused dashboard analyzing **3M+ bike-share rides** to understand revenue, profitability, demand patterns, seasonal trends, and peak-hour behavior.
+
+**Tools:** SQL · SQL Server · Power BI · DAX
+
+🔗 [View Project](https://github.com/Nathasha121/sales-kpi-dashboard)
+
+---
+
+### 🎬 Movie Industry Correlation Analysis
+
+Python-based exploratory data analysis investigating relationships between movie characteristics such as **budget, gross revenue, votes, score, and runtime**.
+
+**Tools:** Python · Pandas · Seaborn · Matplotlib
+
+🔗 [View Project](https://github.com/Nathasha121/movie-industry-correlation-analysis)
+
+---
+
+### 🚲 Bike Sales Dashboard
+
+Interactive Excel dashboard analyzing **customer demographics and bike purchasing behavior** across income, age, education, commute distance, region, and marital status.
+
+**Tools:** Excel · PivotTables · PivotCharts · Slicers
+
+🔗 [View Project](https://github.com/Nathasha121/bike-sales-dashboard)
+
+---
+
+## 🧩 Skills Demonstrated Across Projects
+
+| Skill | Churn | Sales KPI | Movie Analysis | Bike Sales |
+|:---|:---:|:---:|:---:|:---:|
+| SQL | ✅ | ✅ | | |
+| Python | ✅ | | ✅ | |
+| Pandas | ✅ | | ✅ | |
+| Power BI | ✅ | ✅ | | |
+| DAX | | ✅ | | |
+| Excel | | | | ✅ |
+| Machine Learning | ✅ | | | |
+| Data Cleaning | ✅ | ✅ | ✅ | ✅ |
+| Data Visualization | ✅ | ✅ | ✅ | ✅ |
+| Business Analysis | ✅ | ✅ | | ✅ |
+
+---
+
+## 🎯 What I Can Do
+
+- 🧹 Clean and prepare datasets for analysis
+- 🔎 Perform exploratory data analysis
+- 🗄️ Query and analyze data using SQL
+- 📊 Build interactive Power BI dashboards
+- 📈 Develop KPIs and business reports
+- 📉 Create meaningful data visualizations
+- 🤖 Build and evaluate machine learning models
+- 💡 Translate data into actionable business insights
+
+---
+
+## 📚 Currently Learning
 
 - Advanced SQL
 - Power BI & DAX
@@ -77,33 +133,20 @@ A Python-based analysis exploring relationships between movie characteristics an
 
 ---
 
-## 📈 My Goal
+## 🎯 Career Goal
 
-My goal is to become a **Data Analyst / Business Analyst** and use data-driven insights to solve real-world business problems.
+My goal is to build a career as a **Data Analyst / Business Analyst**, using analytical and technical skills to solve real-world business problems and support data-driven decision-making.
 
-I am continuously learning, building projects, and improving my analytical and technical skills.
+I am continuously learning, building practical projects, and strengthening my analytical and technical skills.
 
 ---
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: [My LinkedIn](www.linkedin.com/in/nathasha-dewduni-631993294)
-- 📧 Email: ndewduni12@gmail.com
+💼 [LinkedIn](https://www.linkedin.com/in/nathasha-dewduni-631993294)
+
+📧 [Email](mailto:ndewduni12@gmail.com)
 
 ---
 
 ⭐ Feel free to explore my repositories and projects!
-<!--
-**Nathasha121/Nathasha121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
