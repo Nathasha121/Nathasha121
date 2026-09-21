@@ -1,135 +1,121 @@
 # Hi, I'm Nathasha Dewduni 👋
+### Software Engineer | Software Engineering Undergraduate
 
-### Aspiring Data Analyst | Software Engineering Undergraduate
+I'm a Software Engineering undergraduate with a strong passion for **Full-Stack Development, System Design, and Building Real-World Applications**.
 
-I'm a Software Engineering undergraduate with a strong passion for **Data Analytics, Business Intelligence, and Data-Driven Problem Solving**.
+Through my internship and hands-on academic projects, I have been developing practical experience in **Java, Python, React-JS, Node.js, .NET Core, REST APIs, SQL, and object-oriented software design**.
 
-Through self-learning and hands-on projects, I have been developing practical experience in **SQL, Python, Excel, Power BI, data cleaning, exploratory data analysis, data visualization, and machine learning**.
-
-I enjoy transforming raw data into meaningful insights that can support better business decisions.
+I enjoy the full development lifecycle — from requirements and system design through implementation and deployment — and I'm currently growing a specialisation in Python and applied Machine Learning through my final year project.
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 📊 Data Analytics & Business Intelligence
-
-- SQL
-- Microsoft Excel
-- Power BI
-- DAX
-- Tableau
-- Data Cleaning
-- Exploratory Data Analysis
-- Data Visualization
-- Data Modeling
-- KPI Development
-- Business Analysis
-
-### 🐍 Python & Data Science
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Machine Learning
-
-### 💻 Software Engineering
-
+### 💻 Languages & Core CS
 - Java
-- C#
-- JavaScript
-- React
-- ASP.NET
+- Python
+- C-family fundamentals
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Database Systems & Software Design
+
+### 🌐 Web Development
+- React-JS
+- Node.js
+- .NET Core
+- HTML / CSS / JavaScript
+- PHP
 - REST APIs
-- MySQL
-- SQL Server
+- SQL / MySQL
+
+### 🧰 Tools & Practices
 - Git & GitHub
+- Figma
+- Postman
+- Agile Methodologies
+
+### 🤖 ML & Computer Vision *(in progress)*
+- Python for ML (Ultralytics)
+- YOLOv8 · Computer Vision
+- Grad-CAM / Explainable AI
+- OpenCV · Data Pipelines
+- Google Colab / Kaggle GPU
 
 ---
 
-## 📊 Featured Data Analytics Projects
+## 💼 Experience
 
-### 👥 Customer Churn Analysis
-
-End-to-end customer churn analysis combining **SQL, Python, Power BI, and Machine Learning** to identify churn patterns and predict potential customer churn.
-
-**Tools:** Python · Pandas · NumPy · SQL · Power BI · Scikit-learn · Random Forest
-
-🔗 [View Project](https://github.com/Nathasha121/Customer-Churn-Analysis)
+**Software Developer Intern — Crowderia AB** (Aug 2024 – Jul 2025)
+Developed backend services and supported API integration using Node.js and .NET Core, and implemented frontend features with React across multiple internal and client-based projects.
 
 ---
 
-### 📊 Sales KPI Dashboard
+## 🚀 Featured Software Engineering Projects
 
-Business-focused dashboard analyzing **3M+ bike-share rides** to understand revenue, profitability, demand patterns, seasonal trends, and peak-hour behavior.
+### 🧵 Explainable Multi-Source Fabric & Garment Defect Detection *(FYP — In Progress)*
+Lightweight YOLO-based defect detection system trained across three public datasets to cover fabric-surface and sewing-stage garment defects, with Grad-CAM integration for real-time operator trust.
+**Tools:** Python · YOLOv8 · Grad-CAM · OpenCV
+🔗 [View Project](#)
 
-**Tools:** SQL · SQL Server · Power BI · DAX
+### 🎓 YieldPro — Educational Web App
+Led implementation of an educational blog and fine-tuning chatbot as part of a 2nd-year group project.
+**Tools:** React-JS · Flask
+🔗 [View Project](https://github.com/Nathasha121/Academic-Group-Project)
 
-🔗 [View Project](https://github.com/Nathasha121/sales-kpi-dashboard)
+### 🛒 Ecommerce Web
+A JavaScript-based ecommerce web application.
+**Tools:** JavaScript
+🔗 [View Project](https://github.com/Nathasha121/Ecommerce-Web)
 
----
+### 🎟️ Theater Ticket Booking System
+Console-based backend built with switch-case logic and a streamlined menu for user interaction.
+**Tools:** Java
+🔗 [View Project](#)
 
-### 🎬 Movie Industry Correlation Analysis
+### 🧩 Sliding Puzzle Solver
+Implemented the A* pathfinding algorithm to find shortest paths on a game-style map.
+**Tools:** Java
+🔗 [View Project](#)
 
-Python-based exploratory data analysis investigating relationships between movie characteristics such as **budget, gross revenue, votes, score, and runtime**.
-
-**Tools:** Python · Pandas · Seaborn · Matplotlib
-
-🔗 [View Project](https://github.com/Nathasha121/movie-industry-correlation-analysis)
-
----
-
-### 🚲 Bike Sales Dashboard
-
-Interactive Excel dashboard analyzing **customer demographics and bike purchasing behavior** across income, age, education, commute distance, region, and marital status.
-
-**Tools:** Excel · PivotTables · PivotCharts · Slicers
-
-🔗 [View Project](https://github.com/Nathasha121/bike-sales-dashboard)
+### 🛍️ Westminster Shopping Manager
+Shopping management system built by applying Object-Oriented Programming principles.
+**Tools:** Java · OOP
+🔗 [View Project](#)
 
 ---
 
 ## 🎯 What I Can Do
 
-- 🧹 Clean and prepare datasets for analysis
-- 🔎 Perform exploratory data analysis
-- 🗄️ Query and analyze data using SQL
-- 📊 Build interactive Power BI dashboards
-- 📈 Develop KPIs and business reports
-- 📉 Create meaningful data visualizations
-- 🤖 Build and evaluate machine learning models
-- 💡 Translate data into actionable business insights
+- 🏗️ Design and implement full-stack web applications
+- ⚙️ Build backend services and integrate REST APIs
+- 🎨 Develop functional, user-focused frontends with React
+- 🗄️ Design and query relational databases (SQL/MySQL)
+- 🧠 Apply object-oriented design and core CS fundamentals
+- 🤝 Work collaboratively in Agile development teams
+- 🤖 Build and evaluate computer vision / ML models
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced SQL
-- Power BI & DAX
-- Advanced Python for Data Analytics
-- Machine Learning
-- Data Visualization
-- Business Intelligence
+- Advanced Python for Machine Learning & Computer Vision
+- YOLO-based object detection & explainable AI
+- Deeper system design & software architecture
+- Cloud deployment fundamentals
 
 ---
 
 ## 🎯 Career Goal
 
-My goal is to build a career as a **Data Analyst / Business Analyst**, using analytical and technical skills to solve real-world business problems and support data-driven decision-making.
+My goal is to build a career as a **Software Engineer**, applying strong fundamentals in full-stack development and problem-solving to build reliable, real-world software — while growing my specialisation in applied machine learning.
 
-I am continuously learning, building practical projects, and strengthening my analytical and technical skills.
+I am continuously learning, building practical projects, and strengthening my engineering and analytical skills.
 
 ---
 
 ## 🤝 Let's Connect
 
 💼 [LinkedIn](https://www.linkedin.com/in/nathasha-dewduni-631993294)
-
-📧 [Email](mailto:ndewduni12@gmail.com)
-
----
+📧 [Email](mailto:sebastiandewduni@gmail.com)
 
 ⭐ Feel free to explore my repositories and projects!
