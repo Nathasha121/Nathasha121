@@ -5,7 +5,7 @@ I'm a Software Engineering undergraduate with a strong passion for **Full-Stack 
 
 Through my internship and hands-on academic projects, I have been developing practical experience in **Java, Python, React-JS, Node.js, .NET Core, REST APIs, SQL, and object-oriented software design**.
 
-I enjoy the full development lifecycle — from requirements and system design through implementation and deployment — and I'm currently growing a specialisation in Python and applied Machine Learning through my final year project.
+I enjoy the full development lifecycle from requirements and system design through implementation and deployment — and I'm currently growing a specialisation in Python and applied Machine Learning through my final year project.
 
 ---
 
@@ -116,6 +116,6 @@ I am continuously learning, building practical projects, and strengthening my en
 ## 🤝 Let's Connect
 
 💼 [LinkedIn](https://www.linkedin.com/in/nathasha-dewduni-631993294)
-📧 [Email](mailto:sebastiandewduni@gmail.com)
+📧 [Email](mailto:sebastiannathasha12@gmail.com)
 
 ⭐ Feel free to explore my repositories and projects!
