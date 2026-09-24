@@ -56,30 +56,30 @@ Developed backend services and supported API integration using Node.js and .NET 
 Lightweight YOLO-based defect detection system trained across three public datasets to cover fabric-surface and sewing-stage garment defects, with Grad-CAM integration for real-time operator trust.
 - **Tools:** Python · Explainable AI · OpenCV
 
--
+
 ###  YieldPro - Educational Web App
 Led implementation of an educational blog and fine-tuning chatbot as part of a 2nd-year group project.
 - **Tools:** React-JS · Flask
 - 🔗 [View Project](https://github.com/Nathasha121/Academic-Group-Project)
 
--
+
 ### Ecommerce Web
 A JavaScript-based ecommerce web application.
 - **Tools:** JavaScript
 - 🔗 [View Project](https://github.com/Nathasha121/Ecommerce-Web)
 
--
+
 ### Theater Ticket Booking System
 Console-based backend built with switch-case logic and a streamlined menu for user interaction.
 - **Tools:** Java
 - 🔗 [View Project](https://github.com/Nathasha121/-Theater-Booking-System-)
 
--
+
 ### Sliding Puzzle Solver
 Implemented the A* pathfinding algorithm to find shortest paths on a game-style map.
 - **Tools:** Java
 - 🔗 [View Project](https://github.com/Nathasha121/Sliding-Puzzle--A-Algorithm)
--
+
 ### Westminster Shopping Manager
 Shopping management system built by applying Object-Oriented Programming principles.
 - **Tools:** Java · OOP
@@ -117,8 +117,8 @@ I am continuously learning, building practical projects, and strengthening my en
 ---
 
 ## 🤝 Let's Connect
--
+
 - [LinkedIn](https://www.linkedin.com/in/nathasha-dewduni-631993294)
 - [Email](mailto:sebastiannathasha12@gmail.com)
- - 
+ 
 ⭐ Feel free to explore my repositories and projects!
