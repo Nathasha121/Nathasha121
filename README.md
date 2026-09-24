@@ -11,15 +11,15 @@ I enjoy the full development lifecycle from requirements and system design throu
 
 ## 🛠️ Technical Skills
 
-### 💻 Languages & Core CS
-- Java
+### Languages & Core CS
 - Python
+- Java
 - C-family fundamentals
 - Object-Oriented Programming
 - Data Structures & Algorithms
 - Database Systems & Software Design
 
-### 🌐 Web Development
+### Web Development
 - React-JS
 - Node.js
 - .NET Core
@@ -28,13 +28,13 @@ I enjoy the full development lifecycle from requirements and system design throu
 - REST APIs
 - SQL / MySQL
 
-### 🧰 Tools & Practices
+### Tools & Practices
 - Git & GitHub
 - Figma
 - Postman
 - Agile Methodologies
 
-### 🤖 ML & Computer Vision *(in progress)*
+### ML & Computer Vision *(in progress)*
 - Python for ML (Ultralytics)
 - YOLOv8 · Computer Vision
 - Grad-CAM / Explainable AI
@@ -52,35 +52,35 @@ Developed backend services and supported API integration using Node.js and .NET 
 
 ## 🚀 Featured Software Engineering Projects
 
-### 🧵 Explainable Multi-Source Fabric & Garment Defect Detection *(FYP — In Progress)*
+### Explainable Multi-Source Fabric & Garment Defect Detection *(FYP — In Progress)*
 Lightweight YOLO-based defect detection system trained across three public datasets to cover fabric-surface and sewing-stage garment defects, with Grad-CAM integration for real-time operator trust.
-**Tools:** Python · YOLOv8 · Grad-CAM · OpenCV
-🔗 [View Project](#)
+- **Tools:** Python · YOLOv8 · Grad-CAM · OpenCV
+
 
 ### 🎓 YieldPro — Educational Web App
 Led implementation of an educational blog and fine-tuning chatbot as part of a 2nd-year group project.
-**Tools:** React-JS · Flask
-🔗 [View Project](https://github.com/Nathasha121/Academic-Group-Project)
+- **Tools:** React-JS · Flask
+- 🔗 [View Project](https://github.com/Nathasha121/Academic-Group-Project)
 
 ### 🛒 Ecommerce Web
 A JavaScript-based ecommerce web application.
-**Tools:** JavaScript
-🔗 [View Project](https://github.com/Nathasha121/Ecommerce-Web)
+- **Tools:** JavaScript
+- 🔗 [View Project](https://github.com/Nathasha121/Ecommerce-Web)
 
 ### 🎟️ Theater Ticket Booking System
 Console-based backend built with switch-case logic and a streamlined menu for user interaction.
-**Tools:** Java
-🔗 [View Project](#)
+- **Tools:** Java
+- 🔗 [View Project](#)
 
 ### 🧩 Sliding Puzzle Solver
 Implemented the A* pathfinding algorithm to find shortest paths on a game-style map.
-**Tools:** Java
-🔗 [View Project](#)
+- **Tools:** Java
+- 🔗 [View Project](#)
 
 ### 🛍️ Westminster Shopping Manager
 Shopping management system built by applying Object-Oriented Programming principles.
-**Tools:** Java · OOP
-🔗 [View Project](#)
+- **Tools:** Java · OOP
+- 🔗 [View Project](#)
 
 ---
 
@@ -115,7 +115,7 @@ I am continuously learning, building practical projects, and strengthening my en
 
 ## 🤝 Let's Connect
 
-💼 [LinkedIn](https://www.linkedin.com/in/nathasha-dewduni-631993294)
-📧 [Email](mailto:sebastiannathasha12@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nathasha-dewduni-631993294)
+- 📧 [Email](mailto:sebastiannathasha12@gmail.com)
 
 ⭐ Feel free to explore my repositories and projects!
