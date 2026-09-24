@@ -3,7 +3,7 @@
 
 I'm a Software Engineering undergraduate with a strong passion for **Full-Stack Development, System Design, and Building Real-World Applications**.
 
-Through my internship and hands-on academic projects, I have been developing practical experience in ** Python,Java,React-JS, Node.js, .NET Core, REST APIs, SQL, and object-oriented software design**.
+Through my internship and hands-on academic projects, I have been developing practical experience in **Python,Java,React-JS, Node.js, .NET Core, REST APIs, SQL, and object-oriented software design**.
 
 I enjoy the full development lifecycle from requirements and system design through implementation and deployment and I'm currently growing a specialisation in Python and applied Machine Learning through my final year project.
 
