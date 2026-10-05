@@ -1,15 +1,30 @@
 # Hi, I'm Nathasha Dewduni 👋
-### Software Engineer | Software Engineering Undergraduate
+### Software Engineer | Data Analyst Software  | Engineering Undergraduate
 
-I'm a Software Engineering undergraduate with a strong passion for **Full-Stack Development, System Design, and Building Real-World Applications**.
+I'm a Software Engineering undergraduate with a strong passion for **Data Analytics, Full-Stack Development, System Design, and Building Real-World Applications**.
 
-Through my internship and hands-on academic projects, I have been developing practical experience in **Python,Java,React-JS, Node.js, .NET Core, REST APIs, SQL, and object-oriented software design**.
+Through my internship and hands-on academic projects, I have been developing practical experience in **Power BI, Excel, DAX,Python,Java,React-JS, Node.js, .NET Core, REST APIs, SQL, and object-oriented software design**.
 
-I enjoy the full development lifecycle from requirements and system design through implementation and deployment and I'm currently growing a specialisation in Python and applied Machine Learning through my final year project.
+I enjoy with data to discover meaningful insights, building interactive dashboards, and full development lifecycle from requirements and system design through implementation and deployment and I'm currently growing a specialisation in Python and applied Machine Learning through my final year project.
 
 ---
 
 ## 🛠️ Technical Skills
+
+### Business Intelligence
+- Power BI
+- DAX
+- Interactive Dashboards
+- KPI Dashboards
+- Data Modelling
+
+### Excel
+- Pivot Tables
+- Pivot Charts
+- VLOOKUP
+- Data Cleaning
+- Interactive Dashboards
+- Data Analysis
 
 ### Languages & Core CS
 - Python
@@ -25,8 +40,7 @@ I enjoy the full development lifecycle from requirements and system design throu
 - .NET Core
 - HTML / CSS / JavaScript
 - PHP
-- REST APIs
-- SQL / MySQL
+
 
 ### Tools & Practices
 - Git & GitHub
@@ -47,6 +61,40 @@ I enjoy the full development lifecycle from requirements and system design throu
 
 **Software Developer Intern - Crowderia AB** (Aug 2024 – Jul 2025)
 Developed backend services and supported API integration using Node.js and .NET Core, and implemented frontend features with React across multiple internal and client-based projects.
+
+---
+## 📊 Data Analytics Projects
+
+###  Customer Churn Analysis — SQL · Python · Power BI
+> End-to-end churn analysis on 7,043 telecom customers.
+> Identified top churn drivers, built an interactive Power BI dashboard,
+> and delivered a business recommendation report.
+
+🔗 [View Project](https://github.com/Nathasha121/Customer-Churn-Analysis)
+
+---
+
+###  Sales KPI Dashboard — SQL · Power BI · DAX
+> Analysed 3M+ bike-share rides calculating $15M revenue and seasonal trends.
+> Recommended a 10–15% peak-hour price increase backed by data.
+
+🔗 [View Project](https://github.com/Nathasha121/sales-kpi-dashboard)
+
+---
+
+###  Movie Correlation Analysis — Python · Pandas · Seaborn
+> Explored revenue drivers across 6,820 movies.
+> Budget showed the strongest correlation (0.74) with gross revenue.
+
+🔗 [View Project](https://github.com/Nathasha121/movie-industry-correlation-analysis)
+
+---
+
+### Bike Sales Dashboard — Excel · PivotTables · Slicers
+> Interactive Excel dashboard analysing 1,027 customers
+> by income, commute distance, and region.
+
+🔗 [View Project](https://github.com/Nathasha121/bike-sales-dashboard)
 
 ---
 
@@ -75,46 +123,24 @@ Console-based backend built with switch-case logic and a streamlined menu for us
 - 🔗 [View Project](https://github.com/Nathasha121/-Theater-Booking-System-)
 
 
-### Sliding Puzzle Solver
-Implemented the A* pathfinding algorithm to find shortest paths on a game-style map.
-- **Tools:** Java
-- 🔗 [View Project](https://github.com/Nathasha121/Sliding-Puzzle--A-Algorithm)
-
-### Westminster Shopping Manager
-Shopping management system built by applying Object-Oriented Programming principles.
-- **Tools:** Java · OOP
-- 🔗 [View Project](https://github.com/Nathasha121/-Westminster-Shopping-Manager-Project)
 
 ---
 
 ## 🎯 What I Can Do
-
+- Analyze and clean datasets
+- Write SQL queries for business analysis
+- Perform exploratory data analysis using Python
+- Build interactive Power BI dashboards
+- Use DAX for Power BI analysis
+- Analyze customer and business trends
 - Design and implement full-stack web applications
 - Build backend services and integrate REST APIs
 - Develop functional, user-focused frontends with React
 - Design and query relational databases (SQL/MySQL)
-- Apply object-oriented design and core CS fundamentals
-- Work collaboratively in Agile development teams
-- Build and evaluate computer vision / ML models
+
 
 ---
 
-## 📚 Currently Learning
-
-- Advanced Python for Machine Learning & Computer Vision
-- YOLO-based object detection & explainable AI
-- Deeper system design & software architecture
-- Cloud deployment fundamentals
-
----
-
-## 🎯 Career Goal
-
-My goal is to build a career as a **Software Engineer**, applying strong fundamentals in full-stack development and problem-solving to build reliable, real-world software  while growing my specialisation in applied machine learning.
-
-I am continuously learning, building practical projects, and strengthening my engineering and analytical skills.
-
----
 
 ## 🤝 Let's Connect
 
