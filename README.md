@@ -1,5 +1,5 @@
 # Hi, I'm Nathasha Dewduni 👋
-### Software Engineer | Data Analyst Software  | Engineering Undergraduate
+### Software Engineer | Data Analyst  | Software Engineering Undergraduate
 
 I'm a Software Engineering undergraduate with a strong passion for **Data Analytics, Full-Stack Development, System Design, and Building Real-World Applications**.
 
@@ -8,52 +8,17 @@ Through my internship and hands-on academic projects, I have been developing pra
 I enjoy with data to discover meaningful insights, building interactive dashboards, and full development lifecycle from requirements and system design through implementation and deployment and I'm currently growing a specialisation in Python and applied Machine Learning through my final year project.
 
 ---
+## 🛠 Tech Stack
 
-## 🛠️ Technical Skills
-
-### Business Intelligence
-- Power BI
-- DAX
-- Interactive Dashboards
-- KPI Dashboards
-- Data Modelling
-
-### Excel
-- Pivot Tables
-- Pivot Charts
-- VLOOKUP
-- Data Cleaning
-- Interactive Dashboards
-- Data Analysis
-
-### Languages & Core CS
-- Python
-- Java
-- C-family fundamentals
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- Database Systems & Software Design
-
-### Web Development
-- React-JS
-- Node.js
-- .NET Core
-- HTML / CSS / JavaScript
-- PHP
-
-
-### Tools & Practices
-- Git & GitHub
-- Figma
-- Postman
-- Agile Methodologies
-
-### ML & Computer Vision *(in progress)*
-- Python for ML (Ultralytics)
-- Computer Vision
-- Explainable AI
-- OpenCV · Data Pipelines
-- Google Colab / Kaggle GPU
+| Category | Tools |
+|---|---|
+| **Data Analytics** | SQL · Python · Power BI · DAX · Excel |
+| **Python Libraries** | Pandas · NumPy · Matplotlib · Seaborn · Scikit-learn |
+| **Frontend** | React-JS · HTML · CSS · JavaScript |
+| **Backend** | Node.js · .NET Core · Flask · PHP · ASP.NET |
+| **ML & AI** | YOLOv8 · Grad-CAM · OpenCV · Google Colab |
+| **Databases** | MySQL · SQL Server |
+| **Tools** | Git · GitHub · Figma · Postman · Agile |
 
 ---
 
